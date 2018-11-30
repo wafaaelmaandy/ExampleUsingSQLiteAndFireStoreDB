@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExamplUsingDB</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="save">save Locally</string>
+    <string name="save_remotely">save remotely</string>
+    <array name="setting">
+        <item>Load Local DB</item>
+        <item>Load RemoteDB</item>
+    </array>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "130541771358",
+    "firebase_url": "https://exampleusingdb.firebaseio.com",
+    "project_id": "exampleusingdb",
+    "storage_bucket": "exampleusingdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130541771358:android:f73fb0ef4f829610",
+        "android_client_info": {
+          "package_name": "com.wafaaelm3andy.examplusingdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130541771358-3aehk038a804pn08rbmp94o5ulm5ckdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGtY6-GtrijqhS0xgIUTroK-LEn6NlmpM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
